@@ -67,3 +67,4 @@ else
    echo -e "File with the max errors:$maxFile, <error-count:$max>" | tee -a "$summaryFile"
 fi
 # Thanks All
+# This is just a change
